@@ -5,7 +5,7 @@
 
 ##Project Linkes
     GitHub Live URL:
-    Repository:     https://github.com/amritkumar93349-coder/racipe-website.git
+    Repository: https://github.com/amritkumar93349-coder/racipe-website.git
       
       
       
