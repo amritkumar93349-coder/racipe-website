@@ -4,7 +4,7 @@
 #UNIVERSITY: South Asian University
 
 ##Project Linkes
-    GitHub Live URL:
+    GitHub Live URL: https://amritkumar93349-coder.github.io/racipe-website/
     Repository: https://github.com/amritkumar93349-coder/racipe-website.git
       
       
